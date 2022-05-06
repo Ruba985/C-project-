@@ -11,10 +11,10 @@
 
 ## Table of Contents 
 
-1. [API Reference](#API Reference)
-2. [Environment Variables](#Environment Variables)
-3. [Used By](#Used By)
-4. [Run Locally](#Run Locally)
+1. [API Reference](#API_Reference)
+2. [Environment Variables](#Environment_Variables)
+3. [Used By](#Used_By)
+4. [Run Locally](#Run_Locally)
 5. [Programmers](#Programmers)
 
 
