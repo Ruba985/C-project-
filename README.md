@@ -121,9 +121,9 @@ This project is used by the following companies:
 
 Clone the project
 
-[![The code link](https://img.shields.io/badge/Link-The_Code-blue.svg)](https://onlinegdb.com/woP_WxgPI)
+[![The code link](https://img.shields.io/badge/Link-The_Code-blue.svg)](https://onlinegdb.com/2A6RF9Q4X)
 ```
-https://onlinegdb.com/woP_WxgPI
+https://onlinegdb.com/2A6RF9Q4X
 ```
  
 the code 
@@ -192,13 +192,13 @@ int main () // main function
                n++;
                cout<<"\n\nEnter The Product #: ";
                cin>> product_No;
-               if (product_No <=30)
+               if (product_No >=1 || product_No <=30)
               {
                   cout<<"\nQuantity: ";
                   cin>>product_quantity;
 
-                  No[n] = {(product_No)};
-                  qu[n] = {product_quantity};
+                  No[n] = {(product_No-1)};
+                  qu[n] = {product_quantity-1};
                   cout<<"\nDo You Want To Order Another Product ? (y/n)";
                   cin>> y_n;
 
