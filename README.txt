@@ -1,8 +1,7 @@
 
 # Supermarket Management System Software using C++ 
 
-This software will help to supermarkets management by helping the administrators to manage the products in the supermarket and make online shopping operation more faster and easier for the customers.
-
+This software system helps both the customers and the administrators of the supermarket by minimizing the problems that are accompanied by the manual systems.
 
 
 ## Table of Contents 
