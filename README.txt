@@ -115,11 +115,11 @@ This project is used by the following companies:
 - Administrators in supermarkets
 - Supermarket customers
 
-## Run Locally
 
-Clone the project
 
-[![The code link](https://img.shields.io/badge/Link-The_Code-blue.svg)](https://onlinegdb.com/2A6RF9Q4X)
+## Clone the project
+
+The code link
 ```
 https://onlinegdb.com/2A6RF9Q4X
 ```
