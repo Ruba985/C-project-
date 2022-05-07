@@ -1,12 +1,7 @@
 
 # Supermarket Management System Software using C++ 
+This software system helps both the customers and the administrators of the supermarket by minimizing the problems that are accompanied by the manual systems.
 
-
-
-
-.
-
-.
 
 
 ## Table of Contents 
@@ -102,20 +97,23 @@ This function print the list of the products and their prices, and it use in the
 
 
 
+
 ## Environment Variables
 
-To run this project, the administrator will need to add the following environment variables to they software file
+To run this project, the administrator will need to add the following environment variables to their software file
 
-- ad the products that their supermarket sells from `ADMINISTRATOR_menu ()` first chose `Press 1 to CREATE PRODUCT`
+- add the products that their supermarket sell from `ADMINISTRATOR_menu ()` choose first option `Press 1 to CREATE PRODUCT`.
 
 
 
 ## Used By
 
-This project is used by the following companies:
+This project is used by:
 
-- Administrators in supermarkets
-- Supermarket customers
+-The administrators in the supermarket.
+-The supermarket’s customers.
+
+
 
 ## Run Locally
 
