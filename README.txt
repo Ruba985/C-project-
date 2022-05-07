@@ -1,12 +1,8 @@
 
 # Supermarket Management System Software using C++ 
 
+This software will help to supermarkets management by helping the administrators to manage the products in the supermarket and make online shopping operation more faster and easier for the customers.
 
-
-
-.
-
-.
 
 
 ## Table of Contents 
@@ -16,6 +12,9 @@
 3. Used By
 4. Run Locally
 5. Programmers
+
+
+
 ## API Reference
 
 this program has three functions `main()`,`ADMINISTRATOR_menu ()` and 
@@ -114,6 +113,7 @@ This project is used by:
 
 -The administrators in the supermarket.
 -The supermarket’s customers.
+
 
 
 ## Clone the project
