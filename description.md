@@ -186,10 +186,10 @@ switch (option) // switch case for the entered requirements
                  case 1: //for create a new prodect.
                    break;
 
-                 case 2: //for uery about product.
+                 case 2: //for display about product.
                    break;
 
-                 case 3: //for uery about product.    
+                 case 3: //for query about product.    
                    break;
 
                  case 4: //for modify product.     
