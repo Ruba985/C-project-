@@ -87,7 +87,7 @@ switch (option) // switch case for the entered requirements
 
         Calling `show_PRODUCT_list` in the `main ()` to pint products' menu.
         ```c++
-         switch (option) // switch case fr the entered requirements
+         switch (option) // switch case for the entered requirements
              {
              case 1:
                     show_PRODUCT_list(PRODUCT,PRICE);
