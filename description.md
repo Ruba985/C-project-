@@ -50,9 +50,9 @@ cout << "\n______"; // show the options available in the system
 
 4. #### Using of a `switch` case to determine the user's choice from `option` as either a customer or an administrator, or to exit the application
 ```c++
-switch (option) // switch case fr the entered requirements
+switch (option) // switch case for the entered requirements
     {
-    case 1: //for the cusromers
+    case 1: //for the customers
       break;
 
     case 2: // for the administrators
@@ -95,7 +95,7 @@ switch (option) // switch case fr the entered requirements
         ```
         Here the user adds the products that their will buy from the menu by specifying the product number and its quantity, determine delivery or not and at the end calculate and print the bill.
         ```c++
-        switch (option) // switch case fr the entered requirements
+        switch (option) // switch case for the entered requirements
             {
             case 1:
 
